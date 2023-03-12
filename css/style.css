@@ -1,0 +1,51 @@
+
+#limite-container{
+    width: auto;
+}
+
+.row{
+    height: auto;
+    padding: 20px;
+    margin: 0px;
+}
+
+.col{
+    border: 2px solid transparent;
+    border-radius: 20px;
+    height: auto;
+    padding: 15px;
+    margin: 5px;
+}
+
+.col:hover{
+    box-shadow: rgba(255, 255, 255, 0.1) 0px 0px 32px;
+}
+
+.wpp{
+    max-width: 100%;
+    height: auto;
+}
+
+.rodap{
+    width: 100%;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    padding: 20px;
+}
+
+.icon{
+    width: 20px;
+}
+
+h1{
+    margin: 50px;
+}
+
+h1, h3, h5, h6{
+    text-align: center;
+    font-size: 50px;
+    text-justify: auto;
+
+}
+
